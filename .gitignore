@@ -1,0 +1,19 @@
+dist
+node_modules
+
+# OS or Editor folders
+.DS_Store
+._*
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+thumbs.db
+*.iml
+.idea
+*.sass-cache
+.vscode
